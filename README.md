@@ -1,9 +1,8 @@
 # 🎬 Movie Ticket Reservation System
 
 A Java-based console application for booking movie tickets, developed as part of the Object-Oriented Programming – Exception Handling Lab.
-
-**Group:** Alpha  
-**Course:** Object-Oriented Programming  
+  
+**Course:** Program Construction  
 **Language:** Java 17+
 
 ---
