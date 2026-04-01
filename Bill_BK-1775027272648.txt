@@ -1,0 +1,15 @@
+╔══════════════════════════════════════════════╗
+║     CINEMA CHAIN - BOOKING CONFIRMATION      ║
+╚══════════════════════════════════════════════╝
+  Booking ID : BK-1775027272648
+  Customer   : kethmikakadyasandu@gmail.com
+  Generated  : 01 Apr 2026, 12:37
+
+  Movie      : Horror Nights
+  Genre      : Horror | Language: English
+  Date       : 2025-04-04 | Showtime : Afternoon
+  Seats      : [A1, A2, A3, A4, A5]
+  Tickets    : 5 x $13.00
+  TOTAL DUE  : $65.00
+
+  Thank you for choosing our cinema. Enjoy the show!

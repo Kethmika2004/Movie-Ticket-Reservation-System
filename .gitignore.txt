@@ -1,0 +1,39 @@
+# Compiled Java files
+
+*.class
+
+# Log files
+
+*.log
+
+# Runtime generated files
+
+Bill_*.txt
+session_autosave.txt
+
+# VS Code settings (optional)
+
+.vscode/
+
+# IntelliJ IDEA files (safe to ignore even if not used)
+
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# OS generated files
+
+.DS_Store
+Thumbs.db
+
+# Build output directories
+
+out/
+build/
+
+# Java archives (optional, if you generate them)
+
+*.jar
+*.war
+*.ear
